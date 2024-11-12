@@ -1,0 +1,9 @@
+com\example\Message.class
+com\example\Main.class
+com\example\FirebaseInitializer.class
+com\example\ChatUI.class
+com\example\RegisterUI.class
+com\example\FirebaseService.class
+com\example\LoginUI.class
+com\example\AuthService.class
+com\example\ChatUI$1.class
